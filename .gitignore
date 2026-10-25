@@ -1,0 +1,12 @@
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos temporales
+temp_videos/
+__pycache__/
+*.pyc
+
+# Configuración local
+configuracion.json
